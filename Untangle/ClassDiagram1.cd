@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Untangle.Design">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Design.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.Edge" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <InheritanceLine Type="Untangle.Element" ManuallyRouted="true">
+      <Path>
+        <Point X="9" Y="4" />
+        <Point X="9" Y="3.891" />
+        <Point X="10.637" Y="3.891" />
+        <Point X="10.637" Y="2.741" />
+        <Point X="9" Y="2.741" />
+        <Point X="9" Y="2.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Edge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.Element" Collapsed="true">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAIBAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Body" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Untangle.GameForm" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <AssociationLine Name="settings" Type="Untangle.Settings" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="2" />
+        <Point X="5.25" Y="1.84" />
+        <Point X="14.25" Y="1.84" />
+        <Point X="14.25" Y="2" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.11" Y="0.241" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="players" Type="Untangle.Player" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.125" Y="2" />
+        <Point X="5.125" Y="1.562" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Edges" Type="Untangle.Edge" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.375" />
+        <Point X="7.375" Y="2.375" />
+        <Point X="7.375" Y="2.375" />
+        <Point X="8.25" Y="2.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="Vertices" Type="Untangle.Vertex" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.688" />
+        <Point X="6.737" Y="2.688" />
+        <Point X="6.737" Y="3.438" />
+        <Point X="8.25" Y="3.438" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="SolvedVertices" Type="Untangle.Vertex" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.5" />
+        <Point X="6.875" Y="2.5" />
+        <Point X="6.875" Y="3.125" />
+        <Point X="8.25" Y="3.125" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignVertex" Type="Untangle.Design" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.801" Y="2.691" />
+        <Point X="5.801" Y="6.062" />
+        <Point X="8.25" Y="6.062" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignActiveVertex" Type="Untangle.Design" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.496" Y="2.691" />
+        <Point X="5.496" Y="6.375" />
+        <Point X="8.25" Y="6.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignEdgesRight" Type="Untangle.Design" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.182" Y="2.691" />
+        <Point X="6.182" Y="5.75" />
+        <Point X="8.25" Y="5.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignEdgesCrossed" Type="Untangle.Design" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.217" Y="2.691" />
+        <Point X="5.217" Y="6.688" />
+        <Point X="8.25" Y="6.688" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>wQQxhDgAATBgCAiAEQmgAAwqAIngI2yANAAgIhCLgdw=</HashCode>
+      <FileName>GameForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="settings" />
+      <Property Name="DesignVertex" />
+      <Property Name="DesignActiveVertex" />
+      <Property Name="DesignEdgesRight" />
+      <Property Name="DesignEdgesCrossed" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="players" />
+      <Field Name="Edges" />
+      <Field Name="Vertices" />
+      <Field Name="SolvedVertices" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Untangle.MenuForm" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAuQCAgABgJAECCDYAKAAAOAABAIAAgBAIAASA=</HashCode>
+      <FileName>MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.NameForm" Collapsed="true">
+    <Position X="13.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAgAAAGAAIACAAAAAAAAIAAAAIAAAAA=</HashCode>
+      <FileName>NameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.Player" Collapsed="true">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAACAAAAAAAgAAAEEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.Settings" Collapsed="true">
+    <Position X="13.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAgAAAAAICAAAAAAAAAAAAAQAAAAACAAAAAABAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.SettingsForm" Collapsed="true">
+    <Position X="11" Y="2" Width="1.5" />
+    <AssociationLine Name="settings" Type="Untangle.Settings" FixedFromPoint="true">
+      <Path>
+        <Point X="12.5" Y="2.438" />
+        <Point X="13.5" Y="2.438" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="vertex" Type="Untangle.Vertex" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11" Y="2.644" />
+        <Point X="10.875" Y="2.644" />
+        <Point X="10.875" Y="3.375" />
+        <Point X="10.72" Y="3.375" Type="JumpStart" />
+        <Point X="10.554" Y="3.375" Type="JumpEnd" />
+        <Point X="9.75" Y="3.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="edge" Type="Untangle.Edge" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11" Y="2.375" />
+        <Point X="9.75" Y="2.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignVertex" Type="Untangle.Design" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="2.691" />
+        <Point X="11.75" Y="6.375" />
+        <Point X="9.75" Y="6.375" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="DesignEdgesRight" Type="Untangle.Design" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="11.344" Y="2.691" />
+        <Point X="11.344" Y="6.125" />
+        <Point X="9.75" Y="6.125" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAAhAQgQBCAiKIgBkRCABEE6QEWQAAIAoAQQKJiBAAA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="settings" />
+      <Field Name="vertex" />
+      <Field Name="edge" />
+      <Property Name="GetSettings" />
+      <Property Name="DesignVertex" />
+      <Property Name="DesignEdgesRight" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Untangle.Vertex" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <InheritanceLine Type="Untangle.Element" FixedFromPoint="true">
+      <Path>
+        <Point X="9" Y="4" />
+        <Point X="9" Y="3.691" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.Properties.Resources" Collapsed="true">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAAAAAAAAAAABEAAAAQABAAAAAAAAAAAAAJA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Untangle.RecordsForm" Collapsed="true">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAECEAAACAAAAAAAAIAAAAAAgASA=</HashCode>
+      <FileName>RecordsForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="players" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

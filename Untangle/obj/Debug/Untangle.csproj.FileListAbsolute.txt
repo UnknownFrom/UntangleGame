@@ -1,0 +1,67 @@
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.MenuForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.Properties.Resources.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.pdb
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe.config
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.pdb
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.MenuForm.resources
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.Properties.Resources.resources
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.GenerateResource.cache
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.exe
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.pdb
+C:\Users\Pavel\Desktop\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.GameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.GameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.NameForm.resources
+D:\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe.config
+D:\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.exe
+D:\Курсовая\UntangleGame\Untangle\bin\Debug\Untangle.pdb
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csprojAssemblyReference.cache
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.GameForm.resources
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.MenuForm.resources
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.NameForm.resources
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.Properties.Resources.resources
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.GenerateResource.cache
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.csproj.CoreCompileInputs.cache
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.exe
+D:\Курсовая\UntangleGame\Untangle\obj\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\bin\Debug\Untangle.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\bin\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\bin\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.GameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.MenuForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.NameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.Properties.Resources.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.SettingsForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\bin\Debug\UntangleControlLibrary.dll
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\bin\Debug\UntangleControlLibrary.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\UntangleGame1\Untangle\obj\Debug\Untangle.csproj.CopyComplete
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\bin\Debug\Untangle.exe.config
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\bin\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\bin\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.csprojAssemblyReference.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.GameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.MenuForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.NameForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.Properties.Resources.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.SettingsForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.csproj.GenerateResource.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.exe
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.pdb
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\obj\Debug\Untangle.RecordsForm.resources
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\bin\Debug\Resources\sound-icon-vector-22.jpg
+C:\Users\Pavel\OneDrive - vyatsu\4 семестр\Курсовая\Приложение\Untangle\bin\Debug\Resources\no-audio.png
